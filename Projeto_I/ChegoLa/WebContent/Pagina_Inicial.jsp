@@ -1,6 +1,8 @@
 <%@page import="br.feevale.controle.ControleLogin"%>
 <%
-	String nome = request.getParameter( "nome" );
+//Comentado por Antonio
+
+String nome = request.getParameter( "nome" );
     String senha = request.getParameter( "senha" );
     String msg = null;
     
