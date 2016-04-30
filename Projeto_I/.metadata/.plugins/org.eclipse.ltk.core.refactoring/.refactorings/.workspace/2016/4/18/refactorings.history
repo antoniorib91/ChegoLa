@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ChegoLajJSF&apos; to &apos;ChegoLaJSF&apos;" description="Rename resource &apos;ChegoLajJSF&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ChegoLajJSF" name="ChegoLaJSF" stamp="1462020375326" updateReferences="true"/>
+</session>
