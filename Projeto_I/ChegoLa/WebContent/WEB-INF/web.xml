@@ -13,15 +13,25 @@
   <listener>
     <listener-class>br.feevale.controle.NossoListenerDeContexto</listener-class>
   </listener>
-  
-    
-  <!-- 
-  
+
+  <servlet>
+    <servlet-name>Faces Servlet</servlet-name>
+    <servlet-class>javax.faces.webapp.FacesServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+ </servlet>
+
+ <servlet-mapping>
+   <servlet-name>Faces Servlet</servlet-name>
+   <url-pattern>*.jsf</url-pattern>
+ </servlet-mapping>
+
+  <!--
+
   <context-param>
   	<param-name>caminhoDosParametros</param-name>
-  	 <param-value>C:\Users\Rafael Paz\workspace\Projeto_Integrador\WebContent\WEB-INF\parametrosSGBD.xml</param-value> 
+  	 <param-value>C:\Users\Rafael Paz\workspace\Projeto_Integrador\WebContent\WEB-INF\parametrosSGBD.xml</param-value>
   </context-param>
-  
+
 -->
 
 
