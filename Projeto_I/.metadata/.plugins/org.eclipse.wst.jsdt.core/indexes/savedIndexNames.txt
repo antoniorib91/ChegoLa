@@ -9,4 +9,3 @@ INDEX VERSION 1.3+C:\Users\dougl\Documents\ChegoLa\Projeto_I\.metadata\.plugins\
 679806975.index
 1177059143.index
 2726888510.index
-3373319969.index
